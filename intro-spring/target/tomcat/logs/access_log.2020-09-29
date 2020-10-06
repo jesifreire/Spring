@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:31:54 -0300] "GET /intro-spring/cadastro HTTP/1.1" 405 1045 http-bio-9090-exec-1 139
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:31:55 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-3 0
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:32:29 -0300] "GET /intro-spring/formulario HTTP/1.1" 200 404 http-bio-9090-exec-4 2400
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:32:42 -0300] "POST /intro-spring/cadastro HTTP/1.1" 200 452 http-bio-9090-exec-6 59
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:32:52 -0300] "POST /intro-spring/cadastro HTTP/1.1" 200 452 http-bio-9090-exec-8 8
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:33:35 -0300] "POST /intro-spring/cadastro HTTP/1.1" 200 446 http-bio-9090-exec-10 9
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:34:06 -0300] "GET /intro-spring/formulario HTTP/1.1" 200 404 http-bio-9090-exec-10 9
+0:0:0:0:0:0:0:1 - - [29/Sep/2020:20:34:18 -0300] "POST /intro-spring/cadastro HTTP/1.1" 200 458 http-bio-9090-exec-10 10
